@@ -1,0 +1,27 @@
+{
+  "name": "zipfolder",
+  "version": "1.0.0",
+  "description": "Zip a folder.",
+  "main": "test.js",
+  "dependencies": {
+    "archiver": "^0.13.1",
+    "q": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laispace/node-zipfolder.git"
+  },
+  "keywords": [
+    "zipfolder"
+  ],
+  "author": "laispace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laispace/node-zipfolder/issues"
+  },
+  "homepage": "https://github.com/laispace/node-zipfolder"
+}
