@@ -1,8 +1,8 @@
 {
   "name": "zipfolder",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Zip a folder.",
-  "main": "test.js",
+  "main": "index.js",
   "dependencies": {
     "archiver": "^0.13.1",
     "q": "^1.1.2"
@@ -16,6 +16,8 @@
     "url": "https://github.com/laispace/node-zipfolder.git"
   },
   "keywords": [
+    "zip",
+    "zip folder",
     "zipfolder"
   ],
   "author": "laispace",
